@@ -1,0 +1,8 @@
+{
+    "name": "noContentTypeBodyParser",
+    "version": "0.0.1",
+    "dependencies": {
+        "qs": "0.5.1"
+    },
+    "main": "./lib/noContentTypeBodyParser"
+}

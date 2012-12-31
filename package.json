@@ -4,5 +4,6 @@
     "dependencies": {
         "qs": "0.5.1"
     },
-    "main": "./lib/noContentTypeBodyParser"
+    "main": "./lib/noContentTypeBodyParser",
+    "private": true
 }
